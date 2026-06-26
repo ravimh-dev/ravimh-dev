@@ -47,7 +47,6 @@ Building scalable APIs, SaaS platforms and backend systems.
 | ----------------- | ---------------------------------------------------- |
 | 🌾 **FARMS ERP**  | Multi-tenant ERP platform for agriculture businesses |
 | 💰 **SplitMates** | Expense sharing platform inspired by Splitwise       |
-| 📒 **LedgerLens** | Business ledger & customer account management        |
 
 ---
 
