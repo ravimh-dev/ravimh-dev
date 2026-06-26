@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Mahavadiya</h1>
 
 <h3 align="center">
-Backend Engineer • Node.js • Express • PostgreSQL • Redis • Docker
+Backend Developer • Node.js • Express • PostgreSQL • Redis • Docker
 </h3>
 
 <p align="center">
